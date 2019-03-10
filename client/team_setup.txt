@@ -1,0 +1,26 @@
+# TEAM 1: Team Name A
+0 Super Cool Name
+0 aaaaaaaaa
+0 No Name
+
+# TEAM 1 COACH
+76561197960287930 Gaben
+
+# TEAM 2: Team Name B
+0
+0
+0
+0
+0
+
+# TEAM 2 COACH
+0
+
+# SPECTATORS
+76561198150825487 Match Admin
+0
+0
+
+# AVATARS: http://localhost:8181/avatar
+default
+76561198150825487
