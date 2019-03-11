@@ -3,6 +3,8 @@ Basic team forcing all controlled with a single file. Hopefully there are no bug
 
 A compiled version can be found [here](/client/plugin.smx).
 
+To run the backend server you need to install [NodeJS](https://nodejs.org/) and run it via `node server.js`, which can be found inside the [server](/server) folder.
+
 ---
 
 # team_setup.txt
